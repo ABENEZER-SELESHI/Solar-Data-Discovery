@@ -82,10 +82,7 @@ Perform a cross-country comparative analysis (compare_countries.ipynb planned).
 
 Document insights and visualizations in each EDA branch.
 
-(Optional) Build a Streamlit app to showcase key findings.
-
 Prepare for subsequent stages of the challenge.
-
 🛠️ Libraries Used
 pandas
 
