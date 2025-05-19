@@ -3,8 +3,7 @@ Solar data discovery is a data analysis initiative focused on cleaning and explo
 
 This repository contains the code, notebooks, and processes used for data profiling, cleaning, and exploratory data analysis (EDA).
 
-📁 Repository Structure
-The EDA notebooks are maintained in separate branches and have not yet been merged into the main branch. Each branch corresponds to one of the countries:
+The repositories are named as follows:
 
 benin-eda
 
